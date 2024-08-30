@@ -2,7 +2,7 @@
 整数値15と37の和を表示する
 */
 
-#include	<stdio.h>
+#include <stdio.h>
 
 int main(void)
 {
