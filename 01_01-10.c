@@ -13,7 +13,7 @@ int main(void)
 
     printf("その数の10倍は%dです。\n",10*no);
 
-    retirn(0);
+    return(0);
 }
 
 /*実行例
